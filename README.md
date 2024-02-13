@@ -9,7 +9,7 @@ de EDIAE y T-Systems.
 El proyecto parte de la necesidad de gestionar un sistema de paquetería orientado a facilita a empresas de paquetería
 el envío de diferntes tipos de productos y paquetesa centros educativos de Andalucía. 
 
-El cliente necesita poder gestionar dichos envíos envíos, bien de documentación o material teniendo 
+El cliente necesita poder gestionar dichos envíos, bien de documentación o material teniendo 
 en cuenta en número de personas de la plantilla de los centros y se tendrá en cuenta 
 un 10% de posibles personas trabajando en el centro pero que no sean de plantilla (interinos, comisiones de servicios...).
 La empresa que gestiona los envíos necesita conocer tanto en número de personas del centro como el nivel del profesorado 
