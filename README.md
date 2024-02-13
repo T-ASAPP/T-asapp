@@ -1,7 +1,7 @@
 # T-asapp
 Proyecto ingeniería software
 
-PROYECTO DE GESTIÓN LOGÍSTICA DE ENVÍO DE PAQUETERÍA A CENTROS EDUCATIVOS DE ANDALUCÍA
+PROYECTO RECETAS PERSONALIZADAS
 
 Este proyecto pertenece a la materia de Ingeniería del Software del Máster en Programación y Diseño de Aplicaciones
 de EDIAE y T-Systems.
