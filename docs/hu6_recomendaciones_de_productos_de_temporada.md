@@ -1,0 +1,1 @@
+Como usuario consciente de la importancia de consumir alimentos de temporada, deseo que la página web ofrezca recomendaciones específicas de comidas y recetas basadas en los productos frescos disponibles en cada estación del año.
