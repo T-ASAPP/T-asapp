@@ -1,0 +1,1 @@
+Soy Trini, me encanta cocinar y hacer mis propias recetas adaptando otras. Me gustaría poder compartir con mis amistades mis recetas de forma sencilla para que las puedan consultar y recrear cuando quieran. 
