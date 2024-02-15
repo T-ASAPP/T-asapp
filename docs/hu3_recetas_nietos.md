@@ -1,0 +1,1 @@
+Me llamo Eladia, soy jubilada al cargo de mis nietos, por lo que me encargo de cocinarles, el problema es que no les gustan los platos tradicionales que suelo cocinar, por lo que me gustaría prepararles platos sencillos con algunos de los ingredientes tradicionales que compro en el mercado local cada mañana.
