@@ -1,0 +1,1 @@
+Me llamo Luisa, he empezado a hacer ejercicio y me gustaría complementarlo con una alimentación adecuada. Para esto, sería ideal poder filtrar la información en función de mis preferencias dietéticas para llevar a cabo.
