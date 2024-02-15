@@ -1,0 +1,1 @@
+Ana Sánchez, de 32 años, soy una profesional sanitaria preocupada por el medio ambiente y el desperdicio de alimentos. Busco recetas que me permitan utilizar eficientemente los ingredientes que ya tengo en casa, reduciendo así el derroche de comida y el gasto innecesario.
