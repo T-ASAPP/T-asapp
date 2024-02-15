@@ -1,0 +1,1 @@
+Soy Leovigildo, tengo 22 años, ejerzo como trader de criptomonedas y viajo mucho, en cada viaje pruebo muchos platos de los que me gustaría cocinar en el poco tiempo que me hallo en casa, por lo que me gustaría conocer el proceso y dónde encontrar dichos ingredientes que no se suelen encontrar habitualmente.
