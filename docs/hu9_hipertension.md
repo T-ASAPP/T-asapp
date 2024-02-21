@@ -1,0 +1,1 @@
+Me llamo Ambrosio, he sido diagnosticado de hipertensión y necesito seguir una dieta baja en sal basada en las recomendaciones de mi médico. Me resulta complicado ya que la mayoría de alimentos incorporan sal.

@@ -1,0 +1,1 @@
+Daniel Ruiz, 25 años, soy un estudiante universitario sin experiencia en la cocina. Me siento abrumado por la falta de recursos que me ayuden a mejorar mis habilidades culinarias y a entender las instrucciones de las recetas de manera clara y sencilla.

@@ -1,0 +1,1 @@
+Soy Juan, quiero aumentar mi masa muscular y estoy aburrido de comer solo tortillas, arroz y pechugas de pollo. Me gustaría aprender nuevas recetas que tengan en cuenta mis objetivos en este sentido. 
