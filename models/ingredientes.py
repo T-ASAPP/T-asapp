@@ -4,9 +4,7 @@ vegetales = {"Cebolla", "Pimiento", "Tomate", "Zanahoria"}
 frutas = {"Manzana", "Plátano", "Naranja", "Fresa"}
 granos = {"Arroz", "Pasta", "Trigo", "Avena"}
 lacteos = {"Leche", "Queso", "Yogur", "Mantequilla"}
-hierbas = {"Perejil", "Cilantro", "Albahaca", "Menta"}
-especias = {"Canela", "Nuez moscada", "Clavo", "Jengibre", "Sal", "Pimienta negra", "Pimentón", "Cúrcuma", "Comino", "Orégano", "Albahaca"}
-condimentos = {"Sal", "Ajo en Polvo"}
+condimentos = {"Sal", "Ajo en Polvo", "Canela", "Nuez moscada", "Jengibre", "Pimienta negra", "Pimentón", "Cúrcuma", "Comino", "Orégano", "Perejil", "Cilantro", "Albahaca", "Menta"}
 
 # Diccionario a partir de los sets
 ingredientes = {
