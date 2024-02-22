@@ -1,5 +1,5 @@
 #aqui se genera un set con los ingredientes de la cocina tradicional española
-class IngredientesTradicionales = {
+IngredientesTradicionales = {
     ACEITE_DE_OLIVA = auto()
     ACEITUNAS = auto()
     AJO = auto()
