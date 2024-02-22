@@ -1,7 +1,5 @@
-from enum import Enum, auto
-
-#aqui se genera un enum con los ingredientes de la cocina tradicional española
-class IngredientesTradicionales(Enum):
+#aqui se genera un set con los ingredientes de la cocina tradicional española
+class IngredientesTradicionales = {
     ACEITE_DE_OLIVA = auto()
     ACEITUNAS = auto()
     AJO = auto()
@@ -36,7 +34,7 @@ class IngredientesTradicionales(Enum):
     ROMERO = auto()
     TOMATE = auto()
     TOMILLO = auto()
-
+}
 
 
 
