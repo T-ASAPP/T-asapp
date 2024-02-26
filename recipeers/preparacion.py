@@ -1,7 +1,6 @@
-# Definir conjunto con verbos frecuentes de cocinado
-verbo_cocinado = {"picar", "cortar", "cocinar", "freír", "hervir", "mezclar", "saltear", "hornear", "agregar", "batir", "añadir", "cocer", "pochar", "sofreir"}
-# Definir variables instrucciones e ingredientes
-mas_instrucciones = str
-ingredientes = str
-# Concatenar todo    
-instrucciones = f"{verbo_cocinado} {ingredientes} {mas_instrucciones}"
+class Preparacion:
+    def __init__(self, verbos_cocinado: set[str], ingredientes: str, instrucciones: str):
+       
+        self.verbos_cocinado = verbos_cocinado
+        self.ingredientes = ingredientes
+        self.instrucciones = instrucciones
