@@ -1,3 +1,7 @@
-#aqui se genera un set con los ingredientes de la cocina tradicional española
-ingredientes_tradicionales = set()
+class Receta:
+    def __init__(self, nombre: str, ingredientes: List[Ingrediente], pasos: List[Paso], tradicional: bool = False):
+        self.nombre = nombre
+        self.ingredientes = ingredientes
+        self.pasos = pasos
+        self.tradicional = tradicional
 
