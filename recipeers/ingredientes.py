@@ -1,7 +1,5 @@
 class Ingredientes:
-
-  def __init__(self, nombre: set[str], medida: str, cantidad: float):
-
+  def __init__(self, nombre: set[str], cantidad: float,  medida: str):
     self.nombre = nombre
-    self.medida = medida
     self.cantidad = cantidad
+    self.medida = medida
