@@ -1,7 +1,6 @@
-class Receta:
-    def __init__(self, nombre: str, listaIngredientes: List[Ingrediente], pasosPreparacion: List[Preparacion], esTradicional: bool = False):
+class TipoReceta:
+    def __init__(self, nombre: str):
         self.nombre = nombre
-        self.listaIngredientes = ingredientes
-        self.pasosPreparacion = preparacion
-        self.esTradional = tradicional
 
+# Crear instancias de TipoReceta
+tradicional = TipoReceta("Tradicional")
