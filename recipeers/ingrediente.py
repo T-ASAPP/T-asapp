@@ -1,4 +1,6 @@
+from medida import medida
+
 class Ingrediente:
   def __init__(self, nombre: set[str], medida: str):
     self.nombre = nombre
-    self.medida = medida    
+    self.medida = medida
