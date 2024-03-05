@@ -1,1 +1,0 @@
-Soy Lourdes, estoy interesada en aprender nuevas recetas pero tengo muchos problemas organizando las que voy encontrando. A veces veo un programa de televisión y anoto en algún papel que tenga a mano, hago capturas de pantalla de recetas que veo en mis redes sociales, tengo en mis notas del móvil recetas que me dan amigos.
