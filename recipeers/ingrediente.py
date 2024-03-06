@@ -1,4 +1,4 @@
-from medida import medida
+from medida import Medida
 
 class Ingrediente:
   def __init__(self, nombre: str, medida: Medida):
