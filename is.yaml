@@ -1,3 +1,2 @@
-configuracion:
-  lenguaje: "Español"
-  entidad: recipeers/recetario.py
+lenguaje: "Español"
+entidad: recipeers/recetario.py
