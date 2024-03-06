@@ -4,8 +4,8 @@ from ingrediente import Ingrediente
 
 class Receta:
     def __init__(self, nombre: str, 
-                 listaIngredientes: List[Tuple[Ingrediente, float]], 
-                 pasosPreparacion: List[Preparacion]):
+                 lista_ingredientes: List[Tuple[Ingrediente, float]] = [], 
+                 pasos_preparacion: List[Preparacion] = []):
         self.nombre = nombre
-        self.listaIngredientes = listaIngredientes
-        self.pasosPreparacion = pasosPreparacion
+        self.lista_ingredientes = lista_ingredientes
+        self.pasos_preparacion = pasos_preparacion
