@@ -1,6 +1,6 @@
-class Tipo_receta:
+class TipoReceta:
     def __init__(self, nombre: str):
         self.nombre = nombre
 
-# Crear instancias de Tipo_Receta
-tradicional = Tipo_receta("Tradicional")
+# Crear instancias de TipoReceta
+tradicional = TipoReceta("Tradicional")
