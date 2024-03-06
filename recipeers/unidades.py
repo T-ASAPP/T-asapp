@@ -44,7 +44,5 @@ nuevas_medidas = []
 # Intentar agregar nuevas medidas al conjunto (no habrá cambios)
 agregar_medidas(conjunto_medidas, nuevas_medidas)
 
-# Imprimir el conjunto de medidas resultante
-print(conjunto_medidas)
 
 
