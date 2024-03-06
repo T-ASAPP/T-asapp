@@ -1,7 +1,7 @@
 from typing import List, Dict
 
-from recetas import Receta
-from recetas_tradicionales import TipoReceta
+from receta import Receta
+from tipo_receta import Tipo_receta
 
 class Recetario:
  def __init__(self):
