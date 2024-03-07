@@ -3,7 +3,7 @@
 Este módulo proporciona la implementación de la clase TipoReceta, que representa un tipo de receta.
 """
 
-class tipo_receta:
+class TipoReceta:
     """Clase que representa un tipo de receta.
 
     Attributes:
