@@ -1,5 +1,17 @@
 class Medida:
+    """Clase que representa las medidas utilizadas en recetas.
+
+    Contiene un diccionario que mapea las abreviaturas de las medidas a sus nombres completos
+    o descripciones correspondientes.
+
+    Attributes:
+        medidas (dict): Un diccionario que mapea las abreviaturas de las medidas a sus nombres
+            completos o descripciones correspondientes.
+
+    """
+
     def __init__(self):
+        """Inicializa un nuevo objeto de la clase Medida con un diccionario predefinido de medidas."""
         self.medidas = {
             "kg": "Kilogramo",
             "g": "Gramo",
@@ -13,4 +25,3 @@ class Medida:
             "vaso_de_yogur": "Vaso de yogur (125 ml aprox)",
             "al_gusto": "Al gusto (sazonar)"
         }
-
