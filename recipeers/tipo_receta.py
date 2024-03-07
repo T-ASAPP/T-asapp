@@ -1,4 +1,9 @@
-class tipo_receta:
+"""Módulo que contiene la definición de la clase TipoReceta.
+
+Este módulo proporciona la implementación de la clase TipoReceta, que representa un tipo de receta.
+"""
+
+class TipoReceta:
     """Clase que representa un tipo de receta.
 
     Attributes:

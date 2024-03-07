@@ -1,3 +1,8 @@
+"""Módulo que contiene la definición de la clase Recetario.
+
+Este módulo proporciona la implementación de la clase Recetario, que representa un recetario que contiene recetas.
+"""
+
 from typing import Dict
 from receta import Receta
 from tipo_receta import TipoReceta
