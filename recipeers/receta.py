@@ -1,3 +1,4 @@
+"""Este módulo contiene la definición de la clase Receta para representar recetas culinarias."""
 from typing import List, Tuple
 from preparacion import Preparacion
 from ingrediente import Ingrediente

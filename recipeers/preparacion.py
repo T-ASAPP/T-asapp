@@ -1,3 +1,8 @@
+"""Clase que representa los pasos de preparación de una receta.
+
+Contiene información sobre los verbos de cocinado utilizados, los ingredientes
+involucrados y las instrucciones específicas para llevar a cabo la preparación"""
+
 from typing import Set
 from ingrediente import Ingrediente
 
