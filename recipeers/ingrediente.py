@@ -1,3 +1,8 @@
+"""Módulo que contiene la definición de la clase Ingrediente.
+
+Este módulo proporciona la implementación de la clase Ingrediente, que representa un ingrediente utilizado en recetas.
+"""
+
 from medida import Medida
 
 class Ingrediente:

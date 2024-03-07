@@ -1,3 +1,10 @@
+"""
+Módulo que proporciona una clase `Medida` para representar unidades de medida.
+
+Este módulo proporciona una clase `Medida` que puede usarse para representar
+unidades de medida. La clase tiene un atributo `medidas` que es un diccionario
+que mapea unidades a nombres.
+"""
 class Medida:
     """Clase que representa las medidas utilizadas en recetas.
 
