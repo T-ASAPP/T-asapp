@@ -1,6 +1,6 @@
 from typing import Dict
 from receta import Receta
-from tipo_receta import Tipo_receta
+from tipo_receta import TipoReceta
 
 class Recetario:
     """Clase que representa un recetario que contiene recetas.
