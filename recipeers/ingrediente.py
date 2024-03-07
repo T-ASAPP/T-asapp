@@ -17,7 +17,7 @@ class Ingrediente:
 
     """
 
-    def __init__(self, nombre: str, medida: Medida):
+    def __init__(self, nombre: str, medida: str):
         """Inicializa un nuevo ingrediente con su nombre y medida.
 
         Args:
